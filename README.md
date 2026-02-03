@@ -3,7 +3,7 @@ A high-performance real-time video player for **Luanti** (formerly Minetest) usi
 
 - **Author:** mindys390 (YT: @pro100temich)
 
-- **AI Collaborator:** Developed with the assistance of **Gemini 2.5 Flash** (architecture, optimization, and troubleshooting).
+- **AI Collaborator:** Developed with the assistance of **Gemini 1.5 Flash** (architecture, optimization, and troubleshooting).
 
 - **Engine:** Luanti (Minetest)
 
