@@ -24,7 +24,16 @@ Watch the demo here: [https://youtu.be/E7NJm5yWVso](https://youtu.be/E7NJm5yWVso
 - `opencv-python`
 - `numpy`
 - `miney` (The bridge between Python and Luanti)
+### Luanti Side:
+- Luanti 5.12-5.14 ### Tested at 5.13
+- Miney Mod
 
-Install dependencies:
+## Installation
+### 1. Luanti Mod
+You can install the required `colorfull` mod directly from **ContentDB**:
+[https://content.luanti.org/packages/mindys3993/colorfull/](https://content.luanti.org/packages/mindys3993/colorfull/)
+
+### 2. Python Script
+Install the necessary Python libraries:
 ```bash
 pip install opencv-python numpy miney
