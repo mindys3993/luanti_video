@@ -1,6 +1,14 @@
 # Luanti (Minetest) Video Player
 A high-performance real-time video player for **Luanti** (formerly Minetest) using Python and OpenCV.
 
+- **Author:** mindys390 (YT: @pro100temich)
+
+- **AI Collaborator:** Developed with the assistance of **Gemini 2.5 Flash** (architecture, optimization, and troubleshooting).
+
+- **Engine:** Luanti (Minetest)
+
+- **Library:** Miney
+
 # Bad Apple in Minetest (Luanti)
 Watch the demo here: [https://youtu.be/E7NJm5yWVso](https://youtu.be/E7NJm5yWVso)
 
