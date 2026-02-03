@@ -1,6 +1,8 @@
 # Luanti (Minetest) Video Player
 A high-performance real-time video player for **Luanti** (formerly Minetest) using Python and OpenCV.
 
+https://youtu.be/E7NJm5yWVso
+
 ## Features
 - **1024 Virtual Colors:** Uses 4 dynamic palettes with spatial dithering (2x2 block grid) to overcome the standard 256-color limit.
 - **Real-time Streaming:** Processes video frames on the fly and sends updates to the game via the `miney` library.
